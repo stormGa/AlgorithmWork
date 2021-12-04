@@ -5,10 +5,9 @@ import java.util.Scanner;
 
 /**
  * @Author: LKH
- * @Parameter:
- *             rows: 用于标记这一行是否已经放过棋子
- *             clos: 用于标记这一列是否已经放过棋子
- *             k:  k 个棋子
+ * @Parameter: rows: 用于标记这一行是否已经放过棋子
+ * clos: 用于标记这一列是否已经放过棋子
+ * k:  k 个棋子
  */
 public class Solution {
 
